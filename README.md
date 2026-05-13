@@ -1,15 +1,5 @@
  <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Sven Manthe</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-</style>
-</head>
 <body>
   <h1>Sven Manthe</h1>
   <p>I am a postdoc with <a href="https://ivv5hpp.uni-muenster.de/u/rds">Ralf Schindler</a> at Münster.<br>
